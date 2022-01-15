@@ -30,5 +30,6 @@ Used the Monte Carlo Tree Search (MCTS) algorithm to simulate a game of chess th
   $ streamlit run app.py  
 ```
 
+### App Screenshots
 
-<img width="1000" alt="3" src="https://user-images.githubusercontent.com/52974732/149611390-78ca28aa-7adc-4733-a7f1-917fd3aa0d2c.png">
+<img width="700" alt="3" src="https://user-images.githubusercontent.com/52974732/149611390-78ca28aa-7adc-4733-a7f1-917fd3aa0d2c.png">
